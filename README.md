@@ -47,7 +47,7 @@ The project uses a Twitter database for training the Decision Tree model.
    ```
 
 ## Usage
-1. Prepare your dataset in the `dataset.csv` file.
+1. Prepare your dataset in the `twitter_data.csv` file.
 2. Launch the Streamlit app:
    ```bash
    streamlit run app.py
@@ -58,13 +58,10 @@ The project uses a Twitter database for training the Decision Tree model.
 Below are some visual outputs of the project:
 
 ### Streamlit GUI Interface
-![Streamlit GUI](images/streamlit_gui.png)
+![Streamlit GUI](images/streamlit.jpg)
 
 ### Example Classification Results
-![Classification Results](images/classification_results.png)
-
-### Model Training Metrics
-![Model Metrics](images/model_metrics.png)
+![Classification Results](images/output.jpg)(images/output1.jpg)
 
 ## Future Enhancements
 - Support for multilingual text analysis.
