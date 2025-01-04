@@ -61,7 +61,8 @@ Below are some visual outputs of the project:
 ![Streamlit GUI](streamlit.jpg)
 
 ### Example Classification Results
-![Classification Results](images/output.jpg)(images/output1.jpg)
+![Classification Results](output.jpg)
+![Classification Results](output1.jpg)
 
 ## Future Enhancements
 - Support for multilingual text analysis.
