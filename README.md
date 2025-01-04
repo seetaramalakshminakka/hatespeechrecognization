@@ -58,7 +58,7 @@ The project uses a Twitter database for training the Decision Tree model.
 Below are some visual outputs of the project:
 
 ### Streamlit GUI Interface
-![Streamlit GUI](images/streamlit.jpg)
+![Streamlit GUI](streamlit.jpg)
 
 ### Example Classification Results
 ![Classification Results](images/output.jpg)(images/output1.jpg)
